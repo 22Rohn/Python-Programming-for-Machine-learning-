@@ -8,6 +8,6 @@ Course content
 7 . Data Aggregation and Group Operations
 8 . Time Series
 9 . Supervised Learning
-10.  Unsupervised Learning
-11.  Representing Data and Engineering Features
-12.  Model Evaluation and Improvement
+10. Unsupervised Learning
+11. Representing Data and Engineering Features
+12. Model Evaluation and Improvement
